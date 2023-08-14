@@ -1,4 +1,4 @@
-<h3>Curso freeCodeCamp</h3>
+<h2>Curso freeCodeCamp</h2>
 <p>Proyecto desarrollado en el curso sobre React impartido por freeCodeCamp</p>
 
 # Getting Started with Create React App
